@@ -1,0 +1,54 @@
+---
+title: "Research Workflow"
+subtitle: Organizing Research Projects to Optimize Efficiency and Accuracy
+author: "William Murrah and Andrew Pendola"
+date: "Spring 2020"
+output:
+  ioslides_presentation:
+    css: ../style/slides.css
+    logo: ../figures/au.png
+    template: quarterly-report.html
+    wide: yes
+    widescreen: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Overview
+
+```
+Data
+code
+Resources
+Reports
+REAME.md
+```
+
+## Replication | The guiding principle of workflow
+
+## Steps in Workflow | CPAR
+
+1. Collection/Coding/Curation of data
+2. Preparation of data for analysis
+3. Analysis of data
+4. Reporting results
+
+## Directory Structure
+
+## File Naming Conventions
+
+## Documentation
+
+## Standardization
+
+## Automation
+
+## Verion Control
+
+## Questions?
+
+# {.flexbox .vcenter} 
+
+End
