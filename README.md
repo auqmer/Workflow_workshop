@@ -1,3 +1,5 @@
+![](figures/qmer.png)
+
 # Workflow Workshop
 
 ## SEDA Data
