@@ -11,3 +11,4 @@ https://edopportunity.org/get-the-data/seda-archive-downloads/
 These files were merged in Stata and exported as a .csv
 
 Use “~/Data/Syntax/SEDA_District_Setup.do” to add value labels and desiring variables
+
